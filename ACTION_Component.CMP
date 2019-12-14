@@ -1,0 +1,15 @@
+Component   : CAP-18.0-7.5
+PCB Library : ACTION_Component.PcbLib
+Date        : 2019/12/12
+Time        : 21:57:02
+
+
+
+Dimension : 16.002 x 16.002 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 2          0        0       0        0
+ Top Overlay                 0          2        0       1        0
+--------------------------------------------------------------------
+ Total                       2          2        0       1        0
